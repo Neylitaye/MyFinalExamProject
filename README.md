@@ -1,0 +1,3 @@
+- initialiser et configurer un depot local
+- creer un depot distant sur Github  et lier votre travail local
+- Gerer les branches
